@@ -58,7 +58,7 @@ Este proyecto tiene como objetivo desarrollar un sistema que muestre diferentes 
 Algunos de los diseños empleados fueron Factory method, Facade, Strategy.
 
 tecnologias utilizadas:
-* Backend: Java -> Creacion del sistema, mostrando por consola como se emplean algunas funciones de los diseños implementados. 
+* Java -> Creacion del sistema, mostrando por consola como se emplean algunas funciones de los diseños implementados. 
 
 Link:
 [https://github.com/eriamuri/TallerPatrones](https://github.com/eriamuri/TallerPatrones)
